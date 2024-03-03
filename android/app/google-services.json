@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070730435074",
+    "project_id": "singinwithfacebook-f6ac3",
+    "storage_bucket": "singinwithfacebook-f6ac3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070730435074:android:bd000b6dbc361e41c4a51b",
+        "android_client_info": {
+          "package_name": "com.loginwithfacebooktest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnD2Ey2w2HFiclucMcnHU4WHzSByJOiX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
